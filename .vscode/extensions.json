@@ -14,7 +14,22 @@
         "eamodio.gitlens",
         "mhutchie.git-graph",
         "esbenp.prettier-vscode",
-        "tomoki1207.pdf"
+        "tomoki1207.pdf",
+        "GrapeCity.gc-excelviewer",
+        "bianxianyang.htmlplay",
+        "WallabyJs.quokka-vscode",
+        "sumneko.lua",
+        "actboy168.lua-debug",
+        "Oracle.oracledevtools",
+        "voldemortensen.rainbow-tags",
+        "rebornix.ruby",
+        "wingrunr21.vscode-ruby",
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "hediet.vscode-drawio",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "trixnz.vscode-lua",
+        "ecmel.vscode-html-css"
     ]
 
 }
